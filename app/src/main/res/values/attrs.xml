@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MultiLegView">
+        <attr name="mlv_resulted_color" format="color"/>
+        <attr name="mlv_un_resulted_color" format="color"/>
+        <attr name="mlv_radius" format="dimension"/>
+        <attr name="mlv_line_width" format="dimension" />
+    </declare-styleable>
+</resources>
